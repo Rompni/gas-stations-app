@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_add_gas_station">
+
+    <fragment
+        android:id="@+id/nav_add_gas_station"
+        android:name="com.edu.unimagdalena.appmoviles.gasstations.ui.add_gas_station.AddGasStationFragment"
+        android:label="@string/menu_add_gas_station"
+        tools:layout="@layout/fragment_add_gas_station" />
+
+    <fragment
+        android:id="@+id/nav_show_maps"
+        android:name="com.edu.unimagdalena.appmoviles.gasstations.ui.show_maps.ShowMapsFragment"
+        android:label="@string/menu_maps"
+        tools:layout="@layout/fragment_show_maps" />
+</navigation>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GasStations</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Menu - Estacion de Gasolina</string>
+    <string name="nav_header_subtitle">Selecciona una opcion.</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Salir</string>
+
+    <string name="menu_add_gas_station">Agregar Estacion</string>
+    <string name="menu_maps">Ver Mapa</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="gas_station_name">Nombre de la Estacion</string>
+    <string name="empresa">Empresa</string>
+    <string name="departamento">Departamento</string>
+    <string name="municipio">Municipio</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="agregar_estacion">Agregar Estacion</string>
+</resources>
